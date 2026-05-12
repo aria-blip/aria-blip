@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aria-blip
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C# Xamarin, asp.net core
-- 📫 How to reach me you can't
+  
 
 <!---
 aria-blip/aria-blip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
